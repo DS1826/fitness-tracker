@@ -1,4 +1,4 @@
-# Fitness Tracker
+# Fitness Tracker :muscle:
 
 ## General Information
 This fitness application enables the user to create and track daily workouts using a Mongo database and an Express server.
@@ -26,3 +26,6 @@ This project was completed with the invalualble guidance and support of my Bootc
 * [Stackoverflow](https://stackoverflow.com/)
 * [MongoDB](https://docs.mongodb.com/)
 * [Dev](https://dev.to/oviecodes/virtuals-in-mongoose-dh1)
+
+## Contact
+Created by @DS1826
